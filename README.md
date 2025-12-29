@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I'm Ram Karan (R Karan)  
+👋 Hi, I'm Ram Karan  
 📊 Power BI Developer | Data Analyst  
 📍 Indore, India  
 
